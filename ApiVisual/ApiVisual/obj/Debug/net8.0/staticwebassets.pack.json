@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abdia\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js",
+      "PackagePath": "staticwebassets\\ChartJsBlazorInterop.js"
+    },
+    {
+      "Id": "C:\\Users\\abdia\\source\\repos\\ApiVisual\\ApiVisual\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ApiVisual.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ApiVisual.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\abdia\\source\\repos\\ApiVisual\\ApiVisual\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\abdia\\source\\repos\\ApiVisual\\ApiVisual\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdia\\source\\repos\\ApiVisual\\ApiVisual\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdia\\source\\repos\\ApiVisual\\ApiVisual\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiVisual.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiVisual.props",
+      "PackagePath": "build\\ApiVisual.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiVisual.props",
+      "PackagePath": "buildMultiTargeting\\ApiVisual.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiVisual.props",
+      "PackagePath": "buildTransitive\\ApiVisual.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

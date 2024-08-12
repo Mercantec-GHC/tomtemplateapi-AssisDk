@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdia\\source\\repos\\ApiVisual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA750F2-E44E-4876-8CB3-AD562D394CB2}|ApiVisual\\ApiVisual.csproj|c:\\users\\abdia\\source\\repos\\apivisual\\apivisual\\components\\pages\\benzindata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA750F2-E44E-4876-8CB3-AD562D394CB2}|ApiVisual\\ApiVisual.csproj|solutionrelative:apivisual\\components\\pages\\benzindata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BenzinData.razor",
+              "DocumentMoniker": "C:\\Users\\abdia\\source\\repos\\ApiVisual\\ApiVisual\\Components\\Pages\\BenzinData.razor",
+              "RelativeDocumentMoniker": "ApiVisual\\Components\\Pages\\BenzinData.razor",
+              "ToolTip": "C:\\Users\\abdia\\source\\repos\\ApiVisual\\ApiVisual\\Components\\Pages\\BenzinData.razor",
+              "RelativeToolTip": "ApiVisual\\Components\\Pages\\BenzinData.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T08:33:40.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
